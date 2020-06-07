@@ -13,5 +13,6 @@ apt-get -y install byacc
 apt-get -y install libhdf5-dev
 apt-get -y install libelf-dev
 apt-get -y install libxerces-c-dev
+apt-get -y install libboost-all-dev
 
 ln -s /usr/include/asm-generic /usr/include/asm
